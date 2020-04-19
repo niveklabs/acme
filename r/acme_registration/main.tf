@@ -1,6 +1,6 @@
 terraform {
   required_providers {
-    acme = ">= v1.3.5"
+    acme = ">= v1.4.0"
   }
 }
 
