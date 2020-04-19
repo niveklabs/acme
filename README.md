@@ -3,7 +3,7 @@
 [embedmd]:# (acme.tf)
 ```tf
 provider "acme" {
-  version = "v1.3.4"
+  version = "v1.3.5"
 
   server_url = null
 }
