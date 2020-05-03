@@ -1,5 +1,5 @@
 module "acme_certificate" {
-  source = "./acme/r/acme_certificate"
+  source = "./modules/acme/r/acme_certificate"
 
   account_key_pem           = null
   certificate_p12_password  = null
